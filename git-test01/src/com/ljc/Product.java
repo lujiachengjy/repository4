@@ -12,5 +12,10 @@ public class Product {
 
     public void add(int a,int b){
         int c = a + b;
+        return;
+    }
+
+    public static void test(){
+        System.out.println("hello world");
     }
 }
