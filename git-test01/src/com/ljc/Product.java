@@ -9,4 +9,8 @@ public class Product {
         System.out.println("hello git!!");
         System.out.println("第一次更改代码");
     }
+
+    public void add(int a,int b){
+        int c = a + b;
+    }
 }
