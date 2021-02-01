@@ -7,5 +7,6 @@ public class Product {
         System.out.println("hello git!!");
         System.out.println("hello git!!");
         System.out.println("hello git!!");
+        System.out.println("第一次更改代码");
     }
 }
